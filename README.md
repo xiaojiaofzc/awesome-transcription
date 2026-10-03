@@ -50,6 +50,7 @@ Whisper changed what transcription costs and what it can do. This list covers th
 *For putting transcription inside your own product.*
 
 * [AssemblyAI](https://www.assemblyai.com) - Speech-to-text API with diarization, summarization, and content-moderation models.
+* [Audio & Video to Text on Apify](https://apify.com/fguiraud/audio-video-transcriber) - Hosted Whisper API priced per audio minute, with SRT/VTT subtitles, 99 languages, podcast feeds and TikTok/Instagram links.
 * [Azure AI Speech](https://azure.microsoft.com/products/ai-services/ai-speech) - Microsoft's speech service with real-time and batch transcription and custom model training.
 * [Deepgram](https://deepgram.com) - Low-latency streaming and batch speech-to-text API with domain-tuned models.
 * [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text) - Managed ASR across a wide language set with streaming support.
